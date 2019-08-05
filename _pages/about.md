@@ -12,6 +12,6 @@ I do research at the intersection of Systems and HCI.  My passion is to develop 
 
 Prior to joining the School of Computing and Information, I was a Principal Scientist and Research Group Leader at FX Palo Alto Laboratory.  At FXPAL, my team focused on developing IoT technologies and applications to transform the future of work. I led the creation of large cloud-based distributed systems, large deployments of sensors and devices, and formal evaluations of authentic use in day-to-day operations. These deployments exist in both research and commercial settings in some of the worlds largest organizations.
 
-Students
+Graduate Students
 -----
-I am currently looking for motivated graduate students.  If you are interested in pursuing aa research project with me, please stop by my office or send mail.
+I am currently seeking motivated graduate students for funded research opportunities.  If you are interested in pursuing a research project with me, please stop by my office or send mail.
