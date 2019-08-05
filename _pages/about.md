@@ -14,4 +14,4 @@ Prior to joining the School of Computing and Information, I was a Principal Scie
 
 Graduate Students
 -----
-I am currently seeking motivated graduate students for funded research opportunities.  If you are interested in pursuing a research project with me, please stop by my office or send mail.
+I am currently seeking motivated graduate students for funded research opportunities. Please stop by my office or send mail if f you are interested in pursuing a research project with me.
