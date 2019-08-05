@@ -1,11 +1,10 @@
 ---
 title: "Anchor of trust: towards collusion-resistant trusted indoor location for enterprise and industrial use"
 collection: publications
-excerpt: 'The design of a system that support multiple forms of secure location estimation.  Has multiple applications of use; including secure, location-based documents, secure location check-ins, and secure location monitoring.'
+excerpt: 'The design of a system that supports multiple forms of secure location estimation.  Has multiple applications of use; including secure, location-based documents, secure location check-ins, and secure location monitoring.'
 permalink: /publication/2019-05-08-anchor-of-trust
 date: 2019-05-08
 venue: 'Personal and Ubiquitous Computing'
-paperurl: 'https://doi.org/10.1007/s00779-019-01220-5'
 citation: 'Biehl, J.T., Lee, A.J. & Filby, G. &quot;Anchor of trust: towards collusion-resistant trusted indoor location for enterprise and industrial use&quot;. <i>Pers Ubiquit Comput</i> (2019).'
 
 ---
