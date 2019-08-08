@@ -120,15 +120,13 @@ Teaching
 Professional Membership, Service, and Awards
 ======
 
-Senior Member, Association of Computing Machinery (elevated May 2016)  
-   First Place, Siebel Computing Habitat Design Competition (May 2007)  
-   Verizon Graduate Fellowship (2002 & 2003)  
-   Outstanding Graduate Student Service Award (2003, 2004, & 2005)  
-   Illinois Campus Excellent Teaching Assistant Award (as determined by students, Spring 2003 & Fall 2003)  
-   CSCW Associate Chair (2014, 2019)  
-   INTERACT Program Committee (2009)  
-   CHI Special Interest Group Program Committee (2009)  
-   CHI Notes Associate Chair (2008)  
-   UIST Student Volunteer Co-Chair (2006)  
-   Associate Editor, ACM Crossroads (2005-2007)  
-
+* Senior Member, Association of Computing Machinery (elevated May 2016)  
+* First Place, Siebel Computing Habitat Design Competition (May 2007)  
+* Verizon Graduate Fellowship (2002 & 2003)  
+* Outstanding Graduate Student Service Award (2003, 2004, & 2005)  
+* Illinois Campus Excellent Teaching Assistant Award (as determined by students, Spring 2003 & Fall 2003)  * CSCW Associate Chair (2014, 2019)  
+* INTERACT Program Committee (2009)  
+* CHI Special Interest Group Program Committee (2009)  
+* CHI Notes Associate Chair (2008)  
+* UIST Student Volunteer Co-Chair (2006)  
+* Associate Editor, ACM Crossroads (2005-2007)  
