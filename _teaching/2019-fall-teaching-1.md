@@ -1,7 +1,7 @@
 ---
 title: "CS 3570 Advanced Topics in User Interface Design"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "University of Pittsburgh, Department of Computer Science"
 date: 2019-08-26
