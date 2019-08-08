@@ -12,14 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D., Computer Science, University of Illinois at Urbana-Champaign (October 2008)	
-   Committee:	Brian P. Bailey (advisor), Karrie Karahalios, Michael Twidale, Klara Nahrstedt, and Carl Gutwin     
+
+   Committee:	Brian P. Bailey (advisor), Karrie Karahalios, Michael Twidale, Klara Nahrstedt, and Carl Gutwin  
+      
    Dissertation: 	An Interaction Framework for Managing Applications and Input in Multiple Device Environments
 
 * M.S., Computer Science, University of Illinois at Urbana-Champaign (December 2004)
+
    Advisor: Brian P. Bailey
+   
    Thesis:	Comparing a Textual Interface, Virtual Paths Interface, and Iconic Map Interface for Effective Interaction in an Interactive Workspace
 
 * B.S., Statistics and Computer Science, University of Illinois at Urbana-Champaign (May 2002)
+
    Graduated with High Distinction Honors
 
 

@@ -3,7 +3,7 @@ title: "A Radio-Inertial Localization and Tracking System with BLE Beacons Prior
 collection: publications
 excerpt: 'A low-cost indoor localization and tracking soluion using radio signal strength indicator, Inertial Measurement Unit (IMU), and magnetometer sensors. '
 permalink: /publication/2018-09-24-radio-inertial-localization
-date: 2019-9-24
+date: 2018-9-24
 venue: 'International Conference on Indoor Positioning and Indoor Navigation (IPIN)'
 citation: 'Jadidi, M. G., Patel, M., Miro, J. V.,  Dissanayake, G., Biehl, J.T. & Girgensohn, A.
  &quot;A Radio-Inertial Localization and Tracking System with BLE Beacons Prior Maps,&quot; <i>International Conference on Indoor Positioning and Indoor Navigation (IPIN)</i>, Nantes, 2018, pp. 206-212.'

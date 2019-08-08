@@ -3,7 +3,7 @@ title: "Fusing Map Information with a Probabilistic Sensor Model for Indoor Loca
 collection: publications
 excerpt: 'Novel sensor fusion models for location classification that counter traditional approaches of mapping RSSI to distance.  Further contributes new techniques for extending particle filter approach to leverage map information. '
 permalink: /publication/2018-09-24-fusing-map-information
-date: 2019-9-24
+date: 2018-9-24
 venue: 'International Conference on Indoor Positioning and Indoor Navigation (IPIN)'
 citation: 'Patel, M., Girgensohn, A. & and Biehl, J.T. &quot;Fusing Map Information with a Probabilistic Sensor Model for Indoor Localization Using RF Beacons,&quot; <i>International Conference on Indoor Positioning and Indoor Navigation (IPIN)</i>, Nantes, 2018, pp. 1-8.'
 
