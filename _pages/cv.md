@@ -25,13 +25,13 @@ Education
 
 Professional Experience
 ======
-* <b>School of Computing and Information</b>  
+* <b>School of Computing and Information</b>   
    <b>University of Pittsburgh</b>  
    Associate Professor (August 2019 - current)  
    Department of Information Culture and Data Stewardship (home)  
    Department of Computer Science (joint)
 
-* <b>FX Palo Alto Laboratory, Inc. (FXPAL)</b>
+* <b>FX Palo Alto Laboratory, Inc. (FXPAL)</b>  
    Research Scientist (August 2008 – April 2013)  
    Senior Research Scientist (April 2013 – April 2019)  
    Principal Research Scientist (April 2019 - June 2019)  
