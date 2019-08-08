@@ -11,29 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Computer Science, University of Illinois at Urbana-Champaign (October 2008)	
-
+* Ph.D., Computer Science, University of Illinois at Urbana-Champaign (October 2008)	  
    Committee:	Brian P. Bailey (advisor), Karrie Karahalios, Michael Twidale, Klara Nahrstedt, and Carl Gutwin  
-      
    Dissertation: 	An Interaction Framework for Managing Applications and Input in Multiple Device Environments
 
-* M.S., Computer Science, University of Illinois at Urbana-Champaign (December 2004)
-
-   Advisor: Brian P. Bailey
-   
+* M.S., Computer Science, University of Illinois at Urbana-Champaign (December 2004)  
+   Advisor: Brian P. Bailey     
    Thesis:	Comparing a Textual Interface, Virtual Paths Interface, and Iconic Map Interface for Effective Interaction in an Interactive Workspace
 
-* B.S., Statistics and Computer Science, University of Illinois at Urbana-Champaign (May 2002)
-
+* B.S., Statistics and Computer Science, University of Illinois at Urbana-Champaign (May 2002)  
    Graduated with High Distinction Honors
 
 
 Work experience
 ======
-* FX Palo Alto Laboratory, Inc. (FXPAL)
-   Research Scientist (August 2008 – April 2013)
-   Senior Research Scientist (April 2013 – April 2019)
-   Principal Research Scientist (April 2019 - June 2019)
+* FX Palo Alto Laboratory, Inc. (FXPAL)  
+   Research Scientist (August 2008 – April 2013)  
+   Senior Research Scientist (April 2013 – April 2019)  
+   Principal Research Scientist (April 2019 - June 2019)  
    Leader, Ambient Computing Research Group (April 2014 – June 219)
    
   * Created LocoVisit. Towards a vision of self-service workplaces, LocoVisit is a smartphone application and related cloud services that automate check-in and routing of corporate visitors.  Powered by our indoor location framework, LocoVisit monitors the movement and activities of visitors and their hosts.  The application provides real-time schedule updates, notifications to relevant parties, and real-time routing to meeting locations.  The service also provides corporate security functions, alerting stakeholders when visitors enter spaces not approved for access. 
