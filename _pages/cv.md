@@ -72,11 +72,42 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+United States Patents
+======
+* 8,311,279. System and method for improved image analysis through gaze data feedback. Inventors: P. Quarfordt, J.T. Biehl, G. Golovchinsky. Issued: November 11, 2012.
+
+* 8,334,902. System and method for facilitating the use of whiteboards. Inventors: G. Golovchinsky, S. Carter, J.T. Biehl, L. Denoue. Issued: December 12, 2012.
+
+* 8,838,684. System and Method for Determining a Presence State of a Person. Inventors: J.T. Biehl, A. Turner, P. Quarfordt, A. Dunnigan, W. van Melle, G. Golovchinsky. Issued: September 16, 2014.
+
+* 8,862,895. A System and Methods for Communication, Storage, Retrieval, and Computation of Simple Statistics and Logical Operations on Encrypted Data. Inventors: E. Rieffel, J.T. Biehl, M. Back. Issued: October 14, 2014.
+
+* 8,949,769. Spatial Layout of Hierarchical Shared Resources. Inventors: J.T. Biehl, G.G. Robertson, G.R. Smith, and M.P. Czerwinski. Issued: February 3, 2015.
+
+* 8,954,372. System and Methods for Using Presence Data to Estimate Affect and Communication Preference for Use in a Presence System. Inventors: J.T. Biehl, E. Rieffel, A. Turner, W. van Melle. A. Xu. Issued: February 10, 2015.
+
+* 8,965,977. System and Method for Determining a Presence State of a Person. Inventors: J.T. Biehl, A. Turner, P. Quarfordt, A. Dunnigan, W. van Melle, G. Golovchinsky. Issued: February 24, 2015.
+
+* 8,990,319. System and Method for Coordinating Communication Events Using Computer-Assisted Structured Interaction. Inventors: J. Wiese, J.T. Biehl, T. Turner. Issued: March 24, 2015.
+
+* 9,385,985. Systems and methods for assisting users with contact, access, and distribution lists. Inventors: M.L. Cooper and J.T. Biehl, E. Rieffel, S. Carman. Issued: July 5, 2016.
+
+* 9,408,040. Systems and Methods for Room-Level Location using WiFi. Inventors: M.L. Cooper and J.T. Biehl. Issued: August 2, 2016.
+
+* 9,491,588. Systems and Methods for Mobile Device Location Verification using Beacons. Inventors: J.T. Biehl, M.L. Cooper, and G. Filby. Issued: November 8, 2016.
+
+* 9,503,682. Systems and methods for conveying physical state of a remote device. Inventors: D. Avrahami, J.T. Biehl, and A. Dunnigan. Issued: November 22, 2016.
+
+* 9,813,672. Systems and methods for conveying physical state of a remote device. Inventors: D. Avrahami, J.T. Biehl, and A. Dunnigan. Issued: November 7, 2017.
+
+<!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
