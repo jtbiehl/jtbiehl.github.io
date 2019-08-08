@@ -52,7 +52,7 @@ Professional Experience
   * <i>Designed and evaluated new interaction metaphors for managing information artifacts in multi-device environments.</i> Designed and implemented two new interfaces that utilize a world-in-miniature metaphor. These interfaces, SEAPort and ARIS, enable users to leverage their spatial reasoning abilities when organizing information across devices. Laboratory studies comparing these interfaces against existing interfaces showed users were able to complete management tasks faster and with fewer errors. Our world-in-minute metaphor has influenced other research projects investigating the collaborative use of multiple displays.
   * <i>Developed new and adapted methods for low-fidelity prototyping in multi-device environments.</i> Worked to develop practices for creating and evaluating low-fidelity prototypes for multi-device environments. New techniques can be used to produce higher quality prototypes and lead to better evaluation results.
 
-* <b>Microsoft Research</b>
+* <b>Microsoft Research</b>  
    Research Intern (Summer 2006)  
    Visualization and Interaction for Business and Entertainment Research Group (VIBE)
 
