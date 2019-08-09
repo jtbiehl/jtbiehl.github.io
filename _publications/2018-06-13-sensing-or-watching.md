@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'Explores how privacy concerns vary across different scenarios and types of content being sensed.  Makes recommendations for the selection of sensors in the design of smart spaces.'
 permalink: /publication/2018-06-13-sensing-or-watching
 date: 2018-06-13
-venue: "ACM Symposium on Access Control Models and Technologies (SACMAT'18)"
+venue: "ACM Symposium on Access Control Models and Technologies (SACMAT)"
 citation: "Lee, A.J., Biehl, J.T. & Curry, C. 2018. Sensing or Watching?: Balancing Utility and Privacy in Sensing Systems via Collection and Enforcement Mechanisms. <i>In Proceedings of the 23nd ACM on Symposium on Access Control Models and Technologies (SACMAT '18)</i>. ACM, New York, NY, USA, 105-116."
 
 ---
