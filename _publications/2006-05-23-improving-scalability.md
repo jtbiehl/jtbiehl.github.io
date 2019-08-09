@@ -1,7 +1,6 @@
 ---
 title: "Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks"
 collection: publications
-<!-- excerpt: '' -->
 permalink: /publication/2006-05-23-improving-scalability
 date: 2006-05-23
 venue: " Conference on Advanced Visual Interfaces (AVI)"

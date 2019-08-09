@@ -1,7 +1,7 @@
 ---
 title: "A Toolset for Creating Iconic Interfaces for Interactive Workspaces"
 collection: publications
-excerpt: 'Presents a toolset rapidly constructing iconic representations of workspaces.  The tool provide support to an interactive workspace infrastructure, allowing it to be portable to other environments."
+excerpt: "Presents a toolset rapidly constructing iconic representations of workspaces.  The tool provide support to an interactive workspace infrastructure, allowing it to be portable to other environments."
 permalink: /publication/2005-05-01-toolset-for-iconic-interfaces
 date: 2005-05-01
 venue: 'INTERACT Conference on Human-Computer Interaction'
