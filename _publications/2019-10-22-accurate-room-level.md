@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'Presents techniques for achieving highly accurate room-level location estimation using existing, IoT networks.  Presents a comparison of widely used BLE-based techniques and emerging Wi-Fi RTT techniques.'
 permalink: /publication/2019-10-22-accurate-room-level
 date: 2019-10-22
-venue: 'TO APPEAR Conference on the Internet of Things (IOT)'
+venue: 'Conference on the Internet of Things (IOT) <b>TO APPEAR</b>'
 citation: "Patel, M., Girgensohn, A. & and Biehl, J.T. &quot;Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks,&quot; <i>TO APPEAR In Proceedings of the 8th International Conference on the Internet of Things (IOT '19)</i>, Bilbao, 2019."
 
 
