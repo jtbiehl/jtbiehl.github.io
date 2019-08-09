@@ -2,8 +2,8 @@
 title: "Exploring the Workplace Communication Ecology"
 collection: publications
 excerpt: 'Presents a longitudinal study of communication behavior shifts in an organization.  Results show behaviors for new tool adoption are significantly influenced by past tool selection and use.'
-permalink: /publication/2011-04-10-workplace-ecology
-date: 2011-04-10
+permalink: /publication/2010-04-10-workplace-ecology
+date: 2010-04-10
 venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
 citation: "Turner, T., Qvarfordt, P., Biehl, J.T., Golovchinsky, G., & Back, M.B. 2010. Exploring the Workplace Communication Ecology. <i>In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '10)</i>. ACM, New York, NY, USA, pp. 841-850."
 
