@@ -2,8 +2,8 @@
 title: "LoCo: A Ready-to-Deploy Framework for Efficient Room Localization Using Wi-Fi"
 collection: publications
 excerpt: 'Presents a classification technique and supporting evaluation exploring an efficient Wi-Fi-based localization approach using boosting.'
-permalink: /publication/2015-09-07-prove-it
-date: 2015-09-07
+permalink: /publication/2014-09-03-loco-ready-to-deploy
+date: 2014-09-13
 venue: "ACM International Joint Conference on Pervasive and Ubiquitous Computing(UbiComp)"
 citation: "
 
