@@ -1,7 +1,7 @@
 ---
 title: "Learning How to Feel Again: Towards Affective Workplace Presence and Communication Technologies"
 collection: publications
-excerpt: 'Reports on a system that attempts to learn affective state to inform co-workers of colleagues' affective state.  Results from an evaluation of the technology's deployment show it to be more effective than a baseline of colleague assessment.'
+excerpt: "Reports on a system that attempts to learn affective state to inform co-workers of colleagues' affective state.  Results from an evaluation of the technology's deployment show it to be more effective than a baseline of colleague assessment."
 permalink: /publication/2012-05-05-learning-how-to-feel-again
 date: 2012-05-05
 venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
