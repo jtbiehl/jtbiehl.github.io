@@ -1,7 +1,7 @@
 ---
 title: "IMPROMPTU: A New Interaction Framework for Supporting Collaboration in Multiple Display Environments and Its Field Evaluation for Co-located Software Development"
 collection: publications
-excerpt: 'Presents an new interaction framework for collaboration in MDEs and reports on results of the framework's use to support teams of software developers.'
+excerpt: "Presents an new interaction framework for collaboration in MDEs and reports on results of the framework's use to support teams of software developers."
 permalink: /publication/2008-04-05-impromptu
 date: 2008-04-05
 venue: "ACM Conference on Human Factors in Computing Systems (CHI)"
