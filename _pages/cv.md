@@ -116,6 +116,29 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+<!--  
+Past Interns
+======
+
+* Stacy Branham
+  * Then PhD Student, Virginia Tech
+  * Now Assistant Professor, University of California Irvine
+  * Resulting publication: [CHI 2010 Paper](/publication/2010-04-10-go-to-whiteboard)
+  
+* Jason Wiese
+  * Then PhD Student, Carnegie Mellon HCII
+  * Now Assistant Professor, University of Utah
+  * Resulting publication [Mobile HCI 2011 Paper](/publication/2011-09-02-beyond-yesterdays-tomorrow)
+  
+* Anbang Xu
+  * Then PhD Student, University of Illinois at Urbana-Champaign
+  * Now Research Manager, IBM Alamaden Research Center
+  * Resulting publication [CHI 2012 Paper](/publication/2012-05-05-learning-how-to-feel-again)
+  
+* Daniel Epstein (joint with Daniel Avrahami)   
+ -->
+  
   
 Professional Membership, Service, and Awards
 ======
