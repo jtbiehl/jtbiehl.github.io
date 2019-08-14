@@ -5,7 +5,7 @@ excerpt: 'Presents techniques for achieving highly accurate room-level location 
 permalink: /publication/2019-10-22-accurate-room-level
 date: 2019-10-22
 venue: 'Conference on the Internet of Things (IOT) <b>TO APPEAR</b>'
-citation: "Patel, M., Girgensohn, A. & and Biehl, J.T. &quot;Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks,&quot; <i>TO APPEAR In Proceedings of the 8th International Conference on the Internet of Things (IOT '19)</i>, Bilbao, 2019."
+citation: "Biehl, J.T., Girgensohn, A. & Patel, M. &quot;Achieving Accurate Room-Level Indoor Location Estimation with Emerging IoT Networks,&quot; <i>TO APPEAR In Proceedings of the 8th International Conference on the Internet of Things (IOT '19)</i>, Bilbao, 2019."
 
 
 ---
