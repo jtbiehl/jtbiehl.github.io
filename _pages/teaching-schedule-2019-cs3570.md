@@ -20,19 +20,19 @@ author_profile: false
 | 11| 10/1  | - | -| -|
 | 12| 10/3  | - | -| -|
 | 13| 10/8  | - | -| -|
-| 14| 10/10 | - | -| -|
+| 14| 10/10 | **First Informal Progress Update** | -| -|
 | 15| 10/15 | - | -| -|
 | 16| 10/17 | - | -| -|
 | 17| 10/22 | **Guest Seminar - Prof. Adam Lee** | -| -|
 | - | 10/24 | **NO SEMINAR - Project Day** | -| -|
 | 18| 10/29 | - | -| -|
 | 19| 10/31 | - | -| -|
-| 20| 11/5  | - | -| -|
+| 20| 11/5  | **Mid-semester Project Report** | -| -|
 | 21| 11/7  | - | -| -|
 | 22| 11/12 | - | -| -|
 | 23| 11/14 | - | -| -|
 | 24| 11/19 | - | -| -|
-| 25| 11/21 | - | -| -|
+| 25| 11/21 | **Second Informal Progress Update** | -| -|
 | - | 11/26 | **Thanksgiving Break** | -| -|
 | - | 11/28 | **Thanksgiving Break** | -| -|
 | 26| 12/3  | - | -| -|
