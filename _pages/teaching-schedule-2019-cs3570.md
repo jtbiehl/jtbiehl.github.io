@@ -9,7 +9,7 @@ author_profile: false
 |---|---|---|:---:|:---|
 | 1 | 8/27 | Course Introduction and Syllabus | Biehl | - |
 | 2 | 8/29 | Instructor's Research Overview and Research Project Ideas | Biehl | - |
-| 3 | 9/3  | - | -| -|
+| 3 | 9/3  | **Formative Evaluations** <br/> | -| -|
 | 4 | 9/5  | - | -| -|
 | 5 | 9/10  | - | -| -|
 | 6 | 9/12  | - | -| -|
