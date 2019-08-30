@@ -9,13 +9,13 @@ author_profile: false
 |---|---|---|---|---|
 | 1 | 8/27 | Course Introduction and Syllabus | Jake | - |
 | 2 | 8/29 | Instructor's Research Overview and Research Project Ideas <br><br> Papers: <br> Nick Merrill and Coye Cheshire. 2017. Trust Your Heart: Assessing Cooperation and Trust with Biosignals in Computer-Mediated Interactions. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '17). ACM, New York, NY, USA, 2-12. [DOI: 10.1145/2998181.2998286](https://doi.org/10.1145/2998181.2998286) <br><br> Mohit Jain, Pratyush Kumar, Ishita Bhansali, Q. Vera Liao, Khai Truong, and Shwetak Patel. 2018. FarmChat: A Conversational Agent to Answer Farmer Queries. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 170 (December 2018), 22 pages. [DOI: 10.1145/3287048](https://doi.org/10.1145/3287048) <br><br> David T. Lee, Emily S. Hamedian, Greg Wolff, and Amy Liu. 2019. Causeway: Scaling Situated Learning with Micro-Role Hierarchies. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 74, 12 pages. [DOI: 10.1145/3290605.3300304](https://doi.org/10.1145/3290605.3300304) <br><br>João Guerreiro, Dragan Ahmetovic, Daisuke Sato, Kris Kitani, and Chieko Asakawa. 2019. Airport Accessibility and Navigation Assistance for People with Visual Impairments. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 16, 14 pages. [DOI: 10.1145/3290605.3300246](https://doi.org/10.1145/3290605.3300246) | Jake | - |
-| 3 | 9/3  | Conversational Interfaces (1/3) <br><br> Mohit Jain, Pratyush Kumar, Ishita Bhansali, Q. Vera Liao, Khai Truong, and Shwetak Patel. 2018. FarmChat: A Conversational Agent to Answer Farmer Queries. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 170 (December 2018), 22 pages. [DOI: 10.1145/3287048](https://doi.org/10.1145/3287048)| Henrique | Arun |
-| 4 | 9/5  | Conversational Interfaces (2/3) | -| -|
-| 5 | 9/10  | Conversational Interfaces (3/3) | -| -|
-| 6 | 9/12  | Smart Home | Arun | -|
-| 7 | 9/17  | Smart Office| -| -|
+| 3 | 9/3  | Conversational Interfaces (1/3) <br><br> Papers:<br> Mohit Jain, Pratyush Kumar, Ishita Bhansali, Q. Vera Liao, Khai Truong, and Shwetak Patel. 2018. FarmChat: A Conversational Agent to Answer Farmer Queries. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 170 (December 2018), 22 pages. [DOI: 10.1145/3287048](https://doi.org/10.1145/3287048)| Henrique | Arun |
+| 4 | 9/5  | Conversational Interfaces (2/3) <br><br> Papers: <br> Leigh Clark, Nadia Pantidi, Orla Cooney, Philip Doyle, Diego Garaialde, Justin Edwards, Brendan Spillane, Emer Gilmartin, Christine Murad, Cosmin Munteanu, Vincent Wade, and Benjamin R. Cowan. 2019. What Makes a Good Conversation?: Challenges in Designing Truly Conversational Agents. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 475, 12 pages. [DOI: 10.1145/3290605.3300705](https://doi.org/10.1145/3290605.3300705) | -| -|
+| 5 | 9/10  | Conversational Interfaces (3/3) <br><br> Papers: <br> Julia Cambre, Ying Liu, Rebecca E. Taylor, and Chinmay Kulkarni. 2019. Vitro: Designing a Voice Assistant for the Scientific Lab Workplace. In Proceedings of the 2019 on Designing Interactive Systems Conference (DIS '19). ACM, New York, NY, USA, 1531-1542. [DOI: 10.1145/3322276.3322298](https://doi.org/10.1145/3322276.3322298) | -| -|
+| 6 | 9/12  | Smart Home <br><br> Papers: <br> A.J. Bernheim Brush, Bongshin Lee, Ratul Mahajan, Sharad Agarwal, Stefan Saroiu, and Colin Dixon. 2011. Home automation in the wild: challenges and opportunities. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 2115-2124. [DOI: 10.1145/1978942.1979249](https://doi.org/10.1145/1978942.19792490| Arun | -|
+| 7 | 9/17  | Smart Office <br><br> Papers: <br> Di Lu, Jennifer Marlow, Rafal Kocielnik, and Daniel Avrahami. 2018. Challenges and Opportunities for Technology-Supported Activity Reporting in the Workplace. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 170, 12 pages. [DOI: 10.1145/3173574.3173744](https://doi.org/10.1145/3173574.3173744) | -| -|
 | 8 | 9/19  | Learning Systems (1/3) | -| Arun |
-| 9 | 9/24  | **Project Written Proposals** <br> Learning Systems (2/3) | -| -|
+| 9 | 9/24  | **Project Written Proposals** <br><br> Learning Systems (2/3) <br><br> Paper: <br> Ying Xu and Mark Warschauer. 2019. Young Children's Reading and Learning with Conversational Agents. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). ACM, New York, NY, USA, Paper CS10, 8 pages. [DOI: 10.1145/3290607.3299035](https://doi.org/10.1145/3290607.3299035)| -| -|
 | 10| 9/26  | Learning Systems (3/3) | -| -|
 | 11| 10/1  | Humans and IoT (1/3) | -| -|
 | 12| 10/3  | Humans and IoT (2/3) | -| -|
@@ -26,7 +26,7 @@ author_profile: false
 | 17| 10/22 | **Guest Seminar - Prof. Adam Lee** <br> Privacy | -| -|
 | - | 10/24 | **NO SEMINAR - Project Day** | -| -|
 | 18| 10/29 | Computer-Mediated Communication Systems (1/2) | -| -|
-| 19| 10/31 | Computer-Mediated Communication Systems (2/2) | Arun| -|
+| 19| 10/31 | Computer-Mediated Communication Systems (2/2) <br><br> Papers: <br> Thomas Neumayr, Hans-Christian Jetter, Mirjam Augstein, Judith Friedl, and Thomas Luger. 2018. Domino: A Descriptive Framework for Hybrid Collaboration and Coupling Styles in Partially Distributed Teams. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 128 (November 2018), 24 pages. [DOI: 0.1145/3274397](https://doi.org/10.1145/3274397) | Arun| -|
 | 20| 11/5  | **Mid-semester Project Report** <br> Affective Computing | -| -|
 | 21| 11/7  | Wearables | -| -| 
 | 22| 11/12 | Novel UIs | -| -|
@@ -36,6 +36,6 @@ author_profile: false
 | - | 11/26 | **Thanksgiving Break** | -| -|
 | - | 11/28 | **Thanksgiving Break** | -| -|
 | 26| 12/3  | Explainable AI | -| Arun|
-| 27| 12/5  | Autonomous Cars/Auto UI | -| -|
+| 27| 12/5  | Autonomous Cars/Auto UI <br><br> Papers: <br> Michael Braun, Anja Mainz, Ronee Chadowitz, Bastian Pfleging, and Florian Alt. 2019. At Your Service: Designing Voice Assistant Personalities to Improve Automotive User Interfaces. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 40, 11 pages. [DOI: 10.1145/3290605.3300270](https://doi.org/10.1145/3290605.3300270)| -| -|
 | 28| 12/10 | **Final Project Presentations** | -| -|
 | 29| 12/12 | **Final Project Presentations** | -| -|
