@@ -28,14 +28,14 @@ author_profile: false
 | 18| 10/29 | _Computer-Mediated Communication Systems (1/2)_ <br><br> Papers: <br> TBD | -| Zak|
 | 19| 10/31 | _Computer-Mediated Communication Systems (2/2)_ <br><br> Papers: <br> Thomas Neumayr, Hans-Christian Jetter, Mirjam Augstein, Judith Friedl, and Thomas Luger. 2018. Domino: A Descriptive Framework for Hybrid Collaboration and Coupling Styles in Partially Distributed Teams. Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 128 (November 2018), 24 pages. [DOI: 0.1145/3274397](https://doi.org/10.1145/3274397) | Arun| Zak|
 | 20| 11/5  | **Mid-semester Project Report** <br> _Affective Computing_ <br><br> Papers: <br> Daniel McDuff and Mary Czerwinski. 2018. Designing emotionally sentient agents. Commun. ACM 61, 12 (November 2018), 74-83. [DOI: 10.1145/3186591](https://doi.org/10.1145/3186591)| Zak | -|
-| 21| 11/7  | _Wearables_ <br><br> Papers: <br> TBD | -| -| 
+| 21| 11/7  | _Wearables_ <br><br> Papers: <br> Amanda Lazar, Christian Koehler, Joshua Tanenbaum, and David H. Nguyen. 2015. Why we use and abandon smart devices. In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '15). ACM, New York, NY, USA, 635-646. [DOI: 10.1145/2750858.2804288](https://doi.org/10.1145/2750858.2804288) | -| -| 
 | 22| 11/12 | _Novel UIs_ <br><br> Papers: <br> Hui-Shyong Yeo, Ryosuke Minami, Kirill Rodriguez, George Shaker, and Aaron Quigley. 2018. Exploring Tangible Interactions with Radar Sensing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 200 (December 2018), 25 pages. [DOI: 10.1145/3287078](https://doi.org/10.1145/3287078)| -| -|
-| 23| 11/14 | _Multi-device Interaction_ <br><br> Papers: <br>  TBD| -| Zak |
-| 24| 11/19 | _Social Computing_ <br><br> Papers: <br>  TBD| Zak | -|
+| 23| 11/14 | _Multi-device Interaction_ <br><br> Papers: <br>  Tero Jokela, Jarno Ojala, and Thomas Olsson. 2015. A Diary Study on Combining Multiple Information Devices in Everyday Activities and Tasks. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). ACM, New York, NY, USA, 3903-3912. [DOI: 10.1145/2702123.2702211](https://doi.org/10.1145/2702123.2702211)| -| Zak |
+| 24| 11/19 | _Social Computing_ <br><br> Papers: <br>  Eric Gilbert and Karrie Karahalios. 2009. Predicting tie strength with social media. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). ACM, New York, NY, USA, 211-220. [DOI: 0.1145/1518701.1518736](https://doi.org/10.1145/1518701.1518736)| Zak | -|
 | 25| 11/21 | **Second Informal Progress Update** <br> Group demos/presentations | -| -|
 | - | 11/26 | **Thanksgiving Break** | -| -|
 | - | 11/28 | **Thanksgiving Break** | -| -|
-| 26| 12/3  | _Explainable AI_ <br><br> Papers: <br> TBD| -| Arun|
+| 26| 12/3  | _Explainable AI_ <br><br> Papers: <br> Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi. 2018. A Survey of Methods for Explaining Black Box Models. ACM Comput. Surv. 51, 5, Article 93 (August 2018), 42 pages. [DOI: 10.1145/3236009](https://doi.org/10.1145/3236009)| -| Arun|
 | 27| 12/5  | _Autonomous Cars/Auto UI_ <br><br> Papers: <br> Michael Braun, Anja Mainz, Ronee Chadowitz, Bastian Pfleging, and Florian Alt. 2019. At Your Service: Designing Voice Assistant Personalities to Improve Automotive User Interfaces. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 40, 11 pages. [DOI: 10.1145/3290605.3300270](https://doi.org/10.1145/3290605.3300270)| -| -|
 | 28| 12/10 | **Final Project Presentations** | -| -|
 | 29| 12/12 | **Final Project Presentations** | -| -|
