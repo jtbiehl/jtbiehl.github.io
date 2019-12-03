@@ -34,7 +34,7 @@ Professional Experience
 * <b>FX Palo Alto Laboratory, Inc. (FXPAL)</b>  
    Research Scientist (August 2008 – April 2013)  
    Senior Research Scientist (April 2013 – April 2019)  
-   Principal Research Scientist (April 2019 - June 2019)  
+   Principal Research Scientist (April 2019 - July 2019)  
    Leader, Ambient Computing Research Group (April 2014 – June 2019)
    
   * <i>Created LocoVisit</i>. Towards a vision of self-service workplaces, LocoVisit is a smartphone application and related cloud services that automate check-in and routing of corporate visitors.  Powered by our indoor location framework, LocoVisit monitors the movement and activities of visitors and their hosts.  The application provides real-time schedule updates, notifications to relevant parties, and real-time routing to meeting locations.  The service also provides corporate security functions, alerting stakeholders when visitors enter spaces not approved for access. 
